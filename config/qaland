@@ -1,0 +1,9 @@
+{
+    "openai":{
+        "organization": "org-sk3L5HPdkyFF2u24F8bWs9MD",
+        "api_key": "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",
+        "model": "gpt-3.5-turbo",
+        "max_tokens" : 500,
+        "temperature" : 0.0
+    }
+}
